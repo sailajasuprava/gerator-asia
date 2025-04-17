@@ -91,7 +91,7 @@ const Listings = () => {
       {!loadMoreClicked && (
         <button
           onClick={handleLoadMore}
-          className="mt-10 px-4 py-2 bg-sky-500 text-white rounded-full hover:bg-sky-400"
+          className="mt-10 px-4 py-2 bg-sky-500 text-white rounded-lg hover:bg-sky-400 duration-300"
         >
           Load More
         </button>
