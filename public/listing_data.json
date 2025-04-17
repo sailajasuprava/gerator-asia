@@ -1,0 +1,166 @@
+[
+  {
+    "id": 98,
+    "title": "Pre-Owned / Used / Currently De-Installed 1991 11 Health 4112",
+    "status": "Published",
+    "location": "Cedar Court, Bolivar",
+    "date_posted": "April 10, 2025",
+    "price": 1500,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": [
+      "1/25-Dihydroxy Vitamin D3",
+      "11 Health",
+      "Anesthesiology / Resuscitation"
+    ],
+    "seller": {
+      "name": "Frank Lewis",
+      "role": "Neural Engineering Researcher"
+    }
+  },
+  {
+    "id": 96,
+    "title": "Pre-Owned / Used / Fully Refurbished 2023 Draeger Medical 4",
+    "status": "Published",
+    "location": "London, Austria",
+    "date_posted": "March 21, 2025",
+    "price": 3000,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Incubator Scales", "Draeger Medical", "Oncology"],
+    "seller": {
+      "name": "Benjamin Peltier",
+      "role": "Medical Equipment Solutions"
+    }
+  },
+  {
+    "id": 101,
+    "title": "Pre-Owned / Used / Model 2001 MedEquip 1",
+    "status": "Published",
+    "location": "City 1, Country 1",
+    "date_posted": "April 6, 2025",
+    "price": 1250,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 1A", "Tag 1B", "Tag 1C"],
+    "seller": {
+      "name": "Seller 1",
+      "role": "Role 1"
+    }
+  },
+  {
+    "id": 102,
+    "title": "Pre-Owned / Used / Model 2002 MedEquip 2",
+    "status": "Published",
+    "location": "City 2, Country 2",
+    "date_posted": "April 7, 2025",
+    "price": 1500,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 2A", "Tag 2B", "Tag 2C"],
+    "seller": {
+      "name": "Seller 2",
+      "role": "Role 2"
+    }
+  },
+  {
+    "id": 103,
+    "title": "Pre-Owned / Used / Model 2003 MedEquip 3",
+    "status": "Published",
+    "location": "City 3, Country 3",
+    "date_posted": "April 8, 2025",
+    "price": 1750,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 3A", "Tag 3B", "Tag 3C"],
+    "seller": {
+      "name": "Seller 3",
+      "role": "Role 3"
+    }
+  },
+  {
+    "id": 104,
+    "title": "Pre-Owned / Used / Model 2004 MedEquip 4",
+    "status": "Published",
+    "location": "City 4, Country 4",
+    "date_posted": "April 9, 2025",
+    "price": 2000,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 4A", "Tag 4B", "Tag 4C"],
+    "seller": {
+      "name": "Seller 4",
+      "role": "Role 4"
+    }
+  },
+  {
+    "id": 105,
+    "title": "Pre-Owned / Used / Model 2005 MedEquip 5",
+    "status": "Published",
+    "location": "City 5, Country 5",
+    "date_posted": "April 10, 2025",
+    "price": 2250,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 5A", "Tag 5B", "Tag 5C"],
+    "seller": {
+      "name": "Seller 5",
+      "role": "Role 5"
+    }
+  },
+  {
+    "id": 106,
+    "title": "Pre-Owned / Used / Model 2006 MedEquip 6",
+    "status": "Published",
+    "location": "City 6, Country 6",
+    "date_posted": "April 11, 2025",
+    "price": 2500,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 6A", "Tag 6B", "Tag 6C"],
+    "seller": {
+      "name": "Seller 6",
+      "role": "Role 6"
+    }
+  },
+  {
+    "id": 107,
+    "title": "Pre-Owned / Used / Model 2007 MedEquip 7",
+    "status": "Published",
+    "location": "City 7, Country 7",
+    "date_posted": "April 12, 2025",
+    "price": 2750,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 7A", "Tag 7B", "Tag 7C"],
+    "seller": {
+      "name": "Seller 7",
+      "role": "Role 7"
+    }
+  },
+  {
+    "id": 108,
+    "title": "Pre-Owned / Used / Model 2008 MedEquip 8",
+    "status": "Published",
+    "location": "City 8, Country 8",
+    "date_posted": "April 13, 2025",
+    "price": 3000,
+    "currency": "USD",
+    "transaction_type": "Rent/Lease",
+    "image": "/device.jpg",
+    "tags": ["Tag 8A", "Tag 8B", "Tag 8C"],
+    "seller": {
+      "name": "Seller 8",
+      "role": "Role 8"
+    }
+  }
+]

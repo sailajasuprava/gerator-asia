@@ -1,5 +1,12 @@
+import React from "react";
+import Listings from "./components/Listings";
+
 function App() {
-  return <div>App</div>;
+  return (
+    <div className="App">
+      <Listings />
+    </div>
+  );
 }
 
 export default App;
